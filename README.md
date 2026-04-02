@@ -404,7 +404,7 @@ Most users prefer **mounting** – loading the state file alongside the base mod
 
 Our sample dataset was built with short contexts and heavy use of emojis. After state tuning, the model produces outputs like this:
 
-(Replace with your actual language pair and examples.)
+
 
 The state file captures style, tone, and translation patterns even with limited training data.
 
